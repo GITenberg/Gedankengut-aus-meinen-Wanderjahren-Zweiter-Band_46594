@@ -1,0 +1,25 @@
+_repo: Gedankengut-aus-meinen-Wanderjahren-Zweiter-Band_46594
+covers:
+- cover_type: archival
+  image_path: 46594/46594-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dauthendey, Max
+    birthdate: 1867
+    deathdate: 1918
+    gutenberg_agent_id: '26361'
+    url: http://www.gutenberg.org/2009/agents/26361
+    wikipedia: http://de.wikipedia.org/wiki/Max_Dauthendey
+description: ''
+gutenberg_issued: '2014-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46594'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Gedankengut aus meinen Wanderjahren. Zweiter Band
+url: http://www.gutenberg.org/ebooks/46594
